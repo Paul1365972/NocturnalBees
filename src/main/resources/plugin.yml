@@ -1,0 +1,6 @@
+name: NocturnalBees
+version: @version@
+main: io.github.paul1365972.nocturnalbees.NocturnalBees
+api-version: 1.15
+authors: [Paul1365972]
+description: Simple plugin to allow bees to come out at nightq
