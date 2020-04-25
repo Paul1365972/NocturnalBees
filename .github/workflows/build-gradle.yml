@@ -24,4 +24,4 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: Nocturnal Bees JAR
-          path: Ilblu-API/build/libs/
+          path: build/libs/
